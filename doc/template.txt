@@ -1,0 +1,28 @@
+/*
+ * Meal Prep Randomizer
+ * (C) Kyle Morris 2023 - See LICENSE.txt for license information.
+ * 
+ * FILE: NAME.h
+ *
+ * DESCRIPTION:
+ *
+ * SINCE: v1.0
+ *
+ */
+
+#ifndef MPR_NAME_H
+#define MPR_NAME_H
+
+namespace mpr {
+
+	/**
+     * @brief 
+    */
+	class NAME {
+	public:
+	private:
+	};
+
+};
+
+#endif
